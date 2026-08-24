@@ -37,6 +37,7 @@ I'm an Analyst with a deep passion for uncovering stories hidden in data. I turn
 I believe in continuous learning and constantly explore new tools and methodologies to stay ahead in the data world.
 
 Let’s connect if you want to talk data, insights, or innovation! 🚀
+
 ---
 
 ## 🛠️ Languages & Tools
@@ -56,6 +57,21 @@ Let’s connect if you want to talk data, insights, or innovation! 🚀
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🎓 Certifications
+
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/GOIZAFIRVMIR" target="_blank">
+    <img src="https://drive.google.com/thumbnail?id=1reS0i-wNCTCjFWfFGRvbNu9lW1BpCPfg&sz=w1000" alt="Google Data Analytics Professional Certificate" width="600"/>
+  </a>
+</p>
+
+**Google Data Analytics Professional Certificate**  
+*Issued by Google via Coursera*
+
+🔗 [Verify Credential](https://www.coursera.org/account/accomplishments/professional-cert/GOIZAFIRVMIR)
 
 ---
 
